@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">goodversionlul</string>
+    <string name="hungry_btn">Ta faim ?</string>
+    <string name="not_hungry_txt">J\'ai po faim</string>
+    <string name="hungry_txt">HA BHAAAAAAAAAAA SIIII</string>
+    <string name="popup_btn">OUVRE TA POPUP MA POULE</string>
+    <string name="hungry_deleted">Le dernier text à été supprimé avec succes</string>
+    <string name="hungry_deleted_error">Il n\'y a aucun text a suprimer</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Anuller</string>
+    <string name="popup_hungry_txt">Êtes vous sur de vouloir suprimer le Saint Hungry TEEEEXTE ?</string>
+    <string name="add_manga_btn">Ajouter un manga</string>
+    <string name="popup_manga_txt">ajouter un manga</string>
+    <string name="popup_manga_validate_btn">Validé</string>
+    <string name="add">Ajouter</string>
+    <string name="manga_added">Le manga a été ajouté</string>
+    <string name="title">Titre</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

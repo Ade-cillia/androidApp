@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_btn"
+        android:icon="@drawable/book"
+        android:title="Général"
+        app:itemIconTint="@null" />
+
+    <item
+        android:id="@+id/anime_btn"
+        android:icon="@drawable/supergike"
+        android:title="Animé"
+        app:itemIconTint="@null" />
+
+    <item
+        android:id="@+id/manga_btn"
+        android:icon="@drawable/supergike"
+        android:title="Manga" />
+
+</menu>
